@@ -6,11 +6,11 @@ public class CTest {
 		System.out.print("x = "+x);
 		
 		if(x%2==1)
-			System.out.println(" ¦¹¼Æ¬°©_¼Æ");
+			System.out.println(" æ­¤æ•¸ç‚ºå¥‡æ•¸");
 		else if(x==0)
-			System.out.println(" ¦¹¼Æ¬°0");
+			System.out.println(" æ­¤æ•¸ç‚º0");
 		else
-			System.out.println(" ¦¹¼Æ¬°°¸¼Æ");
+			System.out.println(" æ­¤æ•¸ç‚ºå¶æ•¸");
 	}
 
 	public static void main(String[] args) {
