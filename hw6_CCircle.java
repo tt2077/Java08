@@ -1,11 +1,11 @@
 package hw6;
 
-public class CCircle 		//�w�q���OCCircle
+public class CCircle 		//©w¸qÃþ§OCCircle
 {
 	double pi = 3.14;
 	double radius;
 
-	void show_periphery() 		// show_periphery(), ��ܥX��P��
+	void show_periphery() 		// show_periphery(), Åã¥Ü¥X¶ê©Pªø
 	{
 		System.out.println("periphery="+2*this.pi*this.radius); //(c)
 	}
